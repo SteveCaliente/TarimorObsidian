@@ -1,0 +1,5 @@
+Lieber [[Abt Tormen|Tor🅱en]], 
+Die Zeiten werden düster. Die Konflikte zwischen [[Bogshir]] und [[Hilagshir]] verschärfen sich, nur die letzten Menschen mit einem Rest Vernunft verhindern noch einen offenen Krieg. Wenn dein Verdacht bezüglich deinem Fund richtig ist, reicht die [[Krieg in Tarimor|Zwietracht in Tarimor]] tiefer als mir lieb ist. Doch es scheint Bogshir hat nun auch andere Sorgen. Sie versuchen sie zu verbergen, um keine Schwäche preiszugeben, doch laut meinen Kontakten nehmen die Angriffe in der Nacht zu. Wenn ich die Geschichte richtig deute, kann es nur eine Frage der Zeit sein, bis sie auch in anderen Teilen des Reiches auftreten. Kann es etwas mit den Entwicklungen in [[Trewal Kelefir]] zu tun haben? Ich habe meine Fühler ausgestreckt, um die alten Netzwerke wieder zu aktivieren, wir müssen den Entwicklungen mit aller Kraft entgegenwirken! Gib auf dich Acht, Entdeckungen dieser Art sollten besser geheim gehalten werden.
+[[Dr. Drake (Drache)|Brandfleck statt Unterschrift]]
+
+#item 

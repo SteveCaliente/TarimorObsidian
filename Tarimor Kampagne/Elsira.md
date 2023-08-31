@@ -1,0 +1,3 @@
+Schamanin aus [[Durenbrok]]
+
+#npc

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "ccd533e275e589ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "6138d0bfc091d93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db997a325e355c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-08-22 Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "443783ff7fc8bc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d9b3264694f74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb9e47aea824667",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02007062345b82de",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "51b048c0daacd1dd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "da19906bd13b0cc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c1c01b75d158779",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19c1112a9d62e75a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fac43e3519ede3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d243f35414fb6f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-08-22 Session.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37e7871675b366c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-08-22 Session.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7816cd1aa6f448",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "657b8f0caa8ff9a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-08-22 Session.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "9db997a325e355c7",
+  "lastOpenFiles": [
+    "TarimorObsidian/README.md",
+    "TarimorObsidian",
+    "Schwarzer wabernder Vogel.md",
+    "Kreaturen der Nacht.md",
+    "2023-08-22 Session.md",
+    "Pflanzenwelt Tarimors (Buch).md",
+    "2023-06-23 Session.md",
+    "Pfeile aus Nachtesche.md",
+    "Bailand.md",
+    "Kelef Maham.md",
+    "Aivy.md",
+    "Pfeil.md",
+    "2023-07-14 Session.md",
+    "schwarzer Wolf.md",
+    "Elsira.md",
+    "xIvy.md",
+    "Nele.md",
+    "Durenbrok.md",
+    "Kelef Nana.md",
+    "Kloster Ensai.md",
+    "Der Kelef von Nana.md",
+    "2020-12-15 Session.md",
+    "Trewal Kelefir.md",
+    "Krieg in Tarimor.md",
+    "Hospital von Kelef Nana.md",
+    "Lucillia.md",
+    "Ayreen.md",
+    "Anhänge/Tarimor Karte.png",
+    "Anhänge/Wymar Charactersheet.pdf",
+    "Anhänge/Wymar.pdf",
+    "Anhänge/Cthulhu Charakterblatt - asdf.pdf",
+    "Anhänge/asdf.pdf",
+    "Anhänge/a_large_monkey_with_8_long_arms_lika_a_spider_scary_drooling_slime-1_2_teeth_fangs_showing_foaming_mouth_steps-24_seed-0ts-1689362496_idx-0.png",
+    "Anhänge/wymar11.pdf",
+    "Anhänge/A_cute_chibi_style_fantasy_knight_medieval_looking_like_solid_snake_from_metal_gear_solid_being__steps-20_negative-sword_weapon_club_hammer_spearmask_helmet_hat_seed-0ts-1688137256_idx-0.png",
+    "Anhänge/00025-876232263.png",
+    "Anhänge/00073-284092905.png",
+    "Anhänge/00071-272287071.png",
+    "Anhänge/00068-234152321.png",
+    "Anhänge/00087-2933740448.png",
+    "Anhänge/Tarimor - Kampagne 2.png",
+    "Anhänge/Tarimor - Kampagne 3.png",
+    "Unbenannt.canvas",
+    "Unbenannt",
+    "Anhänge"
+  ]
+}

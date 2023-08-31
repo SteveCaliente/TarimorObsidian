@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#player",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#item",
+      "color": {
+        "a": 1,
+        "rgb": 10395370
+      }
+    },
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#session",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "tag:#hub",
+      "color": {
+        "a": 1,
+        "rgb": 13524242
+      }
+    },
+    {
+      "query": "tag:#creature",
+      "color": {
+        "a": 1,
+        "rgb": 4408186
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.70402425130208,
+  "lineSizeMultiplier": 3.49686279296875,
+  "collapse-forces": false,
+  "centerStrength": 0.4229736328125,
+  "repelStrength": 11.67236328125,
+  "linkStrength": 1,
+  "linkDistance": 153,
+  "scale": 0.8197505728984483,
+  "close": true
+}
