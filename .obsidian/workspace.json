@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f9ff988fc4d9b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +147,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "c98ef6233d71cad8",
+  "active": "f9ff988fc4d9b3ff",
   "lastOpenFiles": [
     "Abt Tormen.md",
     "Unbenannt.md",
