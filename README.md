@@ -6,8 +6,9 @@ Willkommen zum Repository für meine Notizen zur Pen and Paper Kampagne "Tarimor
 
 Die Notizen sind mit verschiedenen Tags versehen, um die Organisation und Suche zu erleichtern:
 
+- **#player:** Spieler-Charaktere in der Kampagne.
 - **#hub:** Zentrale Orte in der Kampagne.
-- **#npc:** Charaktere und Nicht-Spieler-Charaktere in der Welt von Tarimor.
+- **#npc:** Nicht-Spieler-Charaktere in der Welt von Tarimor.
 - **#session:** Zusammenfassungen und Informationen zu verschiedenen Spielsitzungen.
 - **#location:** Orte, Landschaften und Gebäude in der Welt von Tarimor.
 - **#creature:** Kreaturen, Tiere und Monster, auf die die Spieler treffen.
