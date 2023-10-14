@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#session",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,10 +163,10 @@
   },
   "active": "75d1f375ae0b9b06",
   "lastOpenFiles": [
-    "2023-06-23 Session.md",
+    "2023-07-14 Session.md",
     "2023-08-22 Session.md",
     "2023-10-14 Session.md",
-    "2023-07-14 Session.md",
+    "2023-06-23 Session.md",
     "Anhänge/Tarimor Karte.png",
     "Durenbrok.md",
     "Tom Ketell.md",
