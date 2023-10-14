@@ -8,6 +8,7 @@ Heiler, Magier
 
 [[Ruttgar]], [[Astrid]],
 Begleiter [[Leif]],
-Tochter [[Solveig]]
+Tochter [[Solveig]],
+Sohn [[Zeefir]]
 
 #npc
