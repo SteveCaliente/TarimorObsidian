@@ -1,5 +1,6 @@
-Sind Nomaden verbannt aus Bailand 
-kommen von jenseits des Meeres, sind auch von dort verbannt
+Sind Nomaden verbannt aus Bailand  (Diebe)
+kommen von jenseits des Meeres, sind auch von dort verbannt (wollen nicht drüber reden)
+
 
 Stehen auf Rätsel
 
