@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
