@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "c98ef6233d71cad8",
+  "active": "e33bc858b3e65057",
   "lastOpenFiles": [
     "Abt Tormen.md",
     "Unbenannt.md",
