@@ -1,3 +1,6 @@
+
+![[out-0.png|400]]
+
 taucht nachts auf
 Humanoid, 2 Hörner
 riesig ca. 30m hoch, schwarz, hat Beine und Arme
