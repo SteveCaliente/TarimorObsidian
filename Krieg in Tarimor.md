@@ -14,6 +14,16 @@ krieg von bailand angezettelt?
 
 machenschaften in bailand immer verwirrender, unaufrichtiger
 
+Recap nach Kalef Maham:
+Bailand hat Krieg zwischen Hilagschir und Bogschir angezettelt (Münzen belegen das). Am Kloster wurde die Armee von Bogschir ohne Überlebende vernichtet und es wurde von Bailand so dargestellt, als wäre das Hilagschir gewesen --> Krieg
+
+Bailand profitiert stark von diesem Krieg, da der Handel nun mit Bailand stattfindet.
+
+Wesen der Traumwelt/Schattenwelt materialisieren sich nachts. Tests: Bruderschaft versucht in der Schattenwelt gegen die Wesen zu kämpfen.
+
+Auftauchen der Wesen hängt mit zerbröckeln des Reichs und der Instabilität in Tarimor zusammen. Das scheint nicht das erste mal zu sein, dass Vorkehrungen gegen Monster getroffen wurden --> alte Techniken wieder rausfinden.
+
+Gerüchteweise gibt es einen Bastardsohn, der legitimer Thronfolger wäre. --> Vielleicht [[Zeefir]]
 ## [[Hilagshir]]
 
 ## [[Bailand]]
