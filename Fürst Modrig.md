@@ -1,0 +1,1 @@
+Der neue Schambolzen der [[Weiße Bruderschaft]]. Kometenhafter Aufstieg und wird gefeiert als wäre er der Auserwählte.
