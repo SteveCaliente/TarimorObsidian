@@ -21,7 +21,7 @@ Bailand profitiert stark von diesem Krieg, da der Handel nun mit Bailand stattfi
 
 Wesen der Traumwelt/Schattenwelt materialisieren sich nachts. Tests: Bruderschaft versucht in der Schattenwelt gegen die Wesen zu kämpfen.
 
-Auftauchen der Wesen hängt mit zerbröckeln des Reichs und der Instabilität in Tarimor zusammen. Das scheint nicht das erste mal zu sein, dass Vorkehrungen gegen Monster getroffen wurden --> alte Techniken wieder rausfinden.
+Auftauchen der Wesen hängt mit Zerbröckeln des Reichs und der Instabilität in Tarimor zusammen. Das scheint nicht das erste mal zu sein, dass Vorkehrungen gegen Monster getroffen wurden --> alte Techniken wieder rausfinden.
 
 Gerüchteweise gibt es einen Bastardsohn, der legitimer Thronfolger wäre. --> Vielleicht [[Zeefir]]
 ## [[Hilagshir]]
